@@ -1,0 +1,22 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "Super Simple webserver",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "nodemon webserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolere/webserver.git"
+  },
+  "author": "BLR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolere/webserver/issues"
+  },
+  "homepage": "https://github.com/bolere/webserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
